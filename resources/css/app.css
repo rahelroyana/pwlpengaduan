@@ -1,0 +1,21 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    font-size: xx-large;
+}
+.navbar-nav{
+    background-color: purple;
+}
